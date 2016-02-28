@@ -1,0 +1,25 @@
+_repo: Winter-Sunshine_4279
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+tableOfContents: Winter sunshine -- The exhilarations of the road -- The snow-walkers
+  -- The fox -- A March chronicle -- Autumn tides -- The apple -- An October abroad
+title: Winter Sunshine
+url: http://www.gutenberg.org/ebooks/4279
