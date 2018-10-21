@@ -1,5 +1,5 @@
 _repo: Winter-Sunshine_4279
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QH'
 - !lcsh 'Natural history -- Outdoor books'
+- GITenberg
 tableOfContents: Winter sunshine -- The exhilarations of the road -- The snow-walkers
   -- The fox -- A March chronicle -- Autumn tides -- The apple -- An October abroad
 title: Winter Sunshine
